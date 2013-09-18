@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mminella/rotten_apple.png)](https://travis-ci.org/mminella/rotten_apple)
 ![Rotten Apple Logo](https://github.com/claudijd/rotten_apple/blob/master/images/rotten_apple.png?raw=true)
 
 # Rotten Apple
